@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="MarcadorCohete" version="3.0" targetId="7c6d2ad0232244908c9a9163fd8c1649" sideLength="10.690000" topDiameter="6.200000" bottomDiameter="6.200000" sideImage="MarcadorCohete.Body_scaled.jpg" topImage="MarcadorCohete.Top_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
